@@ -6,5 +6,5 @@
 ### Combination
 * Combination using dynamic programming
 
-### Math
+## Math
 * G.C.D.(Greatest Common Divisor)
